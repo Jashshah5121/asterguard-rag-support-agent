@@ -25,12 +25,16 @@ The project optimizes for **groundedness, deterministic safety checks, source au
  
 ## Video
  
-*2–4 minute demo video/GIF walkthrough of the full conversation flow.*
+*Walkthrough of the full conversation flow and project architecture.*
  
 > [!WARNING]
-> **Demo video: Please download and watch as it's too big to preview here. I could have compressed it, but the quality gets poor.**
+> **High-Quality Demo Videos: These files are too large to preview natively on GitHub. I opted not to compress them to preserve the original visual quality.**
 > 
-> 🎥 **[Watch the video walkthrough](video/final_video.mp4)**
+> 🎥 **[Quick Visual Demo (Download)](video/final_video.mp4)** 
+> A quick visual demonstration showing the working conversation, citations, order lookups, and safety guardrails in action.
+>
+> 🎙️ **[Full Walkthrough & Explanation (Google Drive)]([INSERT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1pEiHARViCAYrlVEj_JmJbad0bBcp4_1q/view?usp=sharing))** 
+> A comprehensive, narrated demonstration featuring voiceover and a detailed explanation of the project's logic, features, and architecture.
  
 ---
 
