@@ -14,11 +14,11 @@ The project optimizes for **groundedness, deterministic safety checks, source au
 
 | Knowledge-base question + citations | Order lookup |
 |---|---|
-| ![Knowledge-base question with sources](images/Screenshot%202026-08-25%20230800.png) | ![Order lookup](docs/demo-2-order-lookup.png) |
+| ![Knowledge-base question with sources](images/Screenshot%202026-08-25%20230800.png) | ![Order lookup](images/Screenshot%202026-08-25%20231021.png) |
 
 | Multi-turn follow-up | Safe abstention / human handoff |
 |---|---|
-| ![Multi-turn conversation](docs/demo-3-multiturn.png) | ![Conflict / handoff](docs/demo-4-handoff.png) |
+| ![Multi-turn conversation](images/Screenshot%202026-08-25%20231234.png) | ![Conflict / handoff](images/Screenshot%202026-08-25%20231419.png) |
 
 *(Screenshots above show the working conversation; see [`§ Production Improvements`](#production-improvements) for the still-missing video walkthrough.)*
 
