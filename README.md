@@ -20,7 +20,7 @@ The project optimizes for **groundedness, deterministic safety checks, source au
 |---|---|
 | ![Conflicting sources and privacy refusal](images/Conflicting_sources_and_privacy_refusal.png) | ![Prompt-injection and off-topic refusals](images/Prompt-injection_and_off-topic_refusals.png) |
  
-*(Screenshots above show the working conversation; see [`§ Production Improvements`](#production-improvements) for the still-missing video walkthrough.)*
+*(Screenshots above show the working conversation; see [`§ Production Improvements`](#production-improvements) For Overview of the production improvements Could be done.)*
 ---
  
 ## Video
