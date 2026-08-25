@@ -1,37 +1,37 @@
 # AsterGuard — Reliable RAG Support Agent for Aster & Row
-
+ 
 > Take-home project: a reliability-first customer-support agent built over a Markdown knowledge base and mock order data for the fictional ecommerce company **Aster & Row**.
-
+ 
 AsterGuard answers policy/product questions from a Markdown knowledge base, looks up order status through a privacy-safe tool, keeps light-weight multi-turn context, and **refuses to guess** when sources conflict, evidence is missing, or a request crosses a privacy boundary.
-
+ 
 The project optimizes for **groundedness, deterministic safety checks, source authority, privacy, and regression coverage** — not feature count or UI polish.
-
+ 
 ---
-
+ 
 ## Demo
-
+ 
 *One screenshot per required scenario — a knowledge-base answer with citations, an order lookup, a multi-turn follow-up, and a safe refusal / human handoff.*
-
-| Knowledge-base question + citations | Order lookup |
+ 
+| Welcome screen | Order lookup + KB citations |
 |---|---|
-| ![Knowledge-base question with sources](images/Screenshot%202026-08-25%20230800.png) | ![Order lookup](images/Screenshot%202026-08-25%20231021.png) |
-
-| Multi-turn follow-up | Safe abstention / human handoff |
+| ![Welcome screen with quick actions](Screenshot%202026-08-25%20230800.png) | ![Order lookup and knowledge-base citations](Screenshot%202026-08-25%20231021.png) |
+ 
+| Conflict + privacy refusal | Safety guardrails |
 |---|---|
-| ![Multi-turn conversation](images/Screenshot%202026-08-25%20231234.png) | ![Conflict / handoff](images/Screenshot%202026-08-25%20231419.png) |
-
+| ![Conflicting sources and privacy refusal](Screenshot%202026-08-25%20231234.png) | ![Prompt-injection and off-topic refusals](creenshot%202026-08-25%20231419.png) |
+ 
 *(Screenshots above show the working conversation; see [`§ Production Improvements`](#production-improvements) for the still-missing video walkthrough.)*
-
+ 
 ---
-
+ 
 ## Video
-
+ 
 *2–4 minute demo video/GIF walkthrough of the full conversation flow.*
-
+ 
 | Demo video |
 |---|
 | [Watch the video walkthrough](video/final_video.mp4) |
-
+ 
 ---
 
 ## Table of Contents
