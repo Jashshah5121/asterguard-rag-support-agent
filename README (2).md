@@ -14,7 +14,7 @@ The project optimizes for **groundedness, deterministic safety checks, source au
 
 | Knowledge-base question + citations | Order lookup |
 |---|---|
-| ![Knowledge-base question with sources](docs/demo-1-knowledge-question.png) | ![Order lookup](docs/demo-2-order-lookup.png) |
+| ![Knowledge-base question with sources](Screenshot 2026-08-25 230800.png) | ![Order lookup](docs/demo-2-order-lookup.png) |
 
 | Multi-turn follow-up | Safe abstention / human handoff |
 |---|---|
