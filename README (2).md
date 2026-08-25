@@ -14,11 +14,11 @@ The project optimizes for **groundedness, deterministic safety checks, source au
  
 | Welcome screen | Order lookup + KB citations |
 |---|---|
-| ![Welcome screen with quick actions](Screenshot%202026-08-25%20230800.png) | ![Order lookup and knowledge-base citations](Screenshot%202026-08-25%20231021.png) |
+| ![Welcome screen with quick actions](images/Screenshot%202026-08-25%20230800.png) | ![Order lookup and knowledge-base citations](images/Screenshot%202026-08-25%20231021.png) |
  
 | Conflict + privacy refusal | Safety guardrails |
 |---|---|
-| ![Conflicting sources and privacy refusal](Screenshot%202026-08-25%20231234.png) | ![Prompt-injection and off-topic refusals](creenshot%202026-08-25%20231419.png) |
+| ![Conflicting sources and privacy refusal](images/Screenshot%202026-08-25%20231234.png) | ![Prompt-injection and off-topic refusals](images/Screenshot%202026-08-25%20231419.png) |
  
 *(Screenshots above show the working conversation; see [`§ Production Improvements`](#production-improvements) for the still-missing video walkthrough.)*
  
