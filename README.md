@@ -27,9 +27,10 @@ The project optimizes for **groundedness, deterministic safety checks, source au
  
 *2–4 minute demo video/GIF walkthrough of the full conversation flow.*
  
-## | *Demo video, Please Download and watch as it's too big to preview here, I Cloud have compressed but the quality gets Poor* |
-|---|
-| [Watch the video walkthrough](video/final_video.mp4) |
+> [!WARNING]
+> **Demo video: Please download and watch as it's too big to preview here. I could have compressed it, but the quality gets poor.**
+> 
+> 🎥 **[Watch the video walkthrough](video/final_video.mp4)**
  
 ---
 
