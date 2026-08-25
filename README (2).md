@@ -30,7 +30,7 @@ The project optimizes for **groundedness, deterministic safety checks, source au
 
 | Demo video |
 |---|
-| [![Watch the video walkthrough](video/final_video.mp4) |
+| [Watch the video walkthrough](video/final_video.mp4) |
 
 ---
 
