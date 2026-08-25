@@ -30,10 +30,10 @@ The project optimizes for **groundedness, deterministic safety checks, source au
 > [!WARNING]
 > **High-Quality Demo Videos: These files are too large to preview natively on GitHub. I opted not to compress them to preserve the original visual quality.**
 > 
-> 🎥 **[Quick Visual Demo (Download)](video/final_video.mp4)** 
+> 🎥 **[Quick Visual Demo (Download)](video/final_video.mp4)**<br>
 > A quick visual demonstration showing the working conversation, citations, order lookups, and safety guardrails in action.
 >
-> 🎙️ **[Full Walkthrough & Explanation (Google Drive)]([INSERT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1pEiHARViCAYrlVEj_JmJbad0bBcp4_1q/view?usp=sharing))** 
+> 🎙️ **[Full Walkthrough & Explanation (Google Drive)](https://drive.google.com/file/d/1pEiHARViCAYrlVEj_JmJbad0bBcp4_1q/view?usp=sharing)**<br>
 > A comprehensive, narrated demonstration featuring voiceover and a detailed explanation of the project's logic, features, and architecture.
  
 ---
